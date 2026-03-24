@@ -12,6 +12,10 @@
 
 - **[kenkyū](https://github.com/sharpeye08/kenkyu)** — An autonomous AI research agent that plans queries, searches the web, and synthesizes a report using LangGraph + Ollama.
 
+##  writing
+
+- **[building the brain logic of ai agents: a beginner's guide](https://x.com/sharpeye_wnl/status/2017110571460784451)** — A beginner's breakdown of how AI agent logic works; reposted by the founder of LangChain.
+
 ##  paper-inspired builds
 
 - **[ResNet18 Transfer Learning on CIFAR-10](https://github.com/sharpeye08/ResNet18-transfer-learning-on-CIFAR-10)** — Built after reading the ResNet paper; fine-tuned ResNet18 on CIFAR-10 using ImageNet weights.
