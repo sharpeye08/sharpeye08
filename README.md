@@ -14,7 +14,7 @@
 
 ##  writing
 
-- **[building the brain logic of ai agents: a beginner's guide](https://x.com/sharpeye_wnl/status/2017110571460784451)** — A beginner's breakdown of how AI agent logic works; reposted by the founder of LangChain.
+- **[building the brain logic of ai agents: a beginner's guide](https://x.com/sharpeye_wnl/status/2017110571460784451)** — A beginner's breakdown of how AI agent logic works and how you can build it
 
 ##  paper-inspired builds
 
