@@ -15,7 +15,7 @@
 ##  paper-inspired builds
 
 - **[ResNet18 Transfer Learning on CIFAR-10](https://github.com/sharpeye08/ResNet18-transfer-learning-on-CIFAR-10)** — Built after reading the ResNet paper; fine-tuned ResNet18 on CIFAR-10 using ImageNet weights.
-- **[Road Safety Alert System](https://github.com/sharpeye08/Road-Safety-Alert-System-)** — Real-time vehicle, pedestrian, and hazard detection with severity-based alerts, powered by YOLOv8
+- **[anzen  安全 ](https://github.com/sharpeye08/Road-Safety-Alert-System-)** — Real-time vehicle, pedestrian, and hazard detection with severity-based alerts, powered by YOLOv8
 
 ##  paper implementations
 
