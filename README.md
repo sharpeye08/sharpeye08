@@ -24,5 +24,5 @@
 ##  paper implementations
 
 - **[AlexNet](https://github.com/sharpeye08/AlexNet-implementation)** — From-scratch implementation of the AlexNet architecture (Krizhevsky et al., 2012).
-
 - **[ResNet](https://github.com/sharpeye08/ResNet-implementation)** — From-scratch implementation of the ResNet architecture (He et al., 2015).
+- **[YOLOv1](https://github.com/sharpeye08/YOLOv1-Paper-Implementation-)** - From scratch implementation of You Only Look Once architecture.
